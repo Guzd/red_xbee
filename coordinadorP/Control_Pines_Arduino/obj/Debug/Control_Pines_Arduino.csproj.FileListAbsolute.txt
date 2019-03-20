@@ -1,0 +1,160 @@
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayo 02\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayo 02 - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 02 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Ensayo 03 - Firmata Arduino-CSharp\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gustavo\Desktop\Proyecto Red ZigBee\Ensayos Red ZigBee\Ensayo 03 - Firmata Arduino-CSharp - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\Gutiérrez\Desktop\documentación\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Documents\tesis\3er Reporte Proyecto Red ZigBee\Documentacion - Proyecto Red ZigBee\Documentacion\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Arduino - C Sharp FIRMATA - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\pruebas\entradasysalidasjuntas - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\pruebas\entradas y salidas independientes - copia\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Avances\comunicacion_bidireccional\FIRMATA\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\pruebas\coordinador\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe.config
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\bin\Debug\Control_Pines_Arduino.pdb
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.FIRMATA.resources
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.Properties.Resources.resources
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.exe
+C:\Users\diana\Desktop\Avances\recepcion de datos\coordinadorP\Control_Pines_Arduino\obj\Debug\Control_Pines_Arduino.pdb
